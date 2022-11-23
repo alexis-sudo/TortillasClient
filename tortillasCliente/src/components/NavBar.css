@@ -1,0 +1,35 @@
+.up{
+    height: 200px;
+    position: absolute;
+    top: 0px;
+}
+
+.ziseIcons{
+    font-size: x-large;
+}
+
+.bg-custom2{
+    background-color:#3e3e4d;
+}
+
+.color-y{
+    color:#FFB423;
+}
+
+.bg-customt{
+    background-color: transparent;
+}
+
+.logo{
+    height: 40px;
+    width: auto;
+    border-radius: 20px;
+}
+
+.size{
+    font-size:xx-large;
+}
+
+.customFace{
+    color: #ffe923;
+}

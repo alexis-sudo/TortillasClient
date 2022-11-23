@@ -1,0 +1,14 @@
+.img-profile{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 0px;
+}
+
+.cimg{
+    margin-top: -80px;
+}
+
+.color{
+    color: rgb(83, 83, 83);
+}
